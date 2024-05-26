@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  background-image: url("pic.jpg");
+}
+.heading{
+  margin-bottom: 100px;
+
+}
+
+.container{
+  background-color: rgba(240, 248, 255, 0.301);
+}
+.input{
+  border: none;
+  background-color: transparent;
+  outline: none;
+  font-size: 20px;
+}
+.lable{
+  color:rgb(83, 83, 83)
+}
+
+.select
+{
+  margin-left: 50px ;
+  margin-top: 10px;
+  border: none;
+  background-color: rgba(206, 206, 206, 0.473);
+  padding: 2px 5px;
+}
+.swap button{
+left:240px;
+bottom: -15px;
+
+}
+

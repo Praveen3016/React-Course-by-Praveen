@@ -1,0 +1,9 @@
+day-1
+    1. making component
+    2. props works
+    3. import export
+    4. using component
+    5. PropsType and defautProfa
+
+day-2
+    1. usestate 
